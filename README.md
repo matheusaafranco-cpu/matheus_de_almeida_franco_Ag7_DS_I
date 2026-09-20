@@ -21,12 +21,12 @@ O **Monitor de Consumo de Água** foi desenvolvido para auxiliar companhias de s
 
 ## 📋 Regras de Negócio
 
-| Tipo de Imóvel | Consumo ($m^3$) | Mensagem Exibida |
+| Tipo de Imóvel | Consumo (m³) | Mensagem Exibida |
 | :--- | :--- | :--- |
 | 🏬 **Comercial** | Qualquer valor | *Tarifa comercial aplicada – consulte o plano corporativo.* |
-| 🏢 **Apartamento** | Menor que 10 $m^3$ | *Consumo econômico – excelente controle de água!* |
-| 🏠 **Casa / Apartamento** | Até 25 $m^3$ | *Consumo moderado – dentro do padrão residencial.* |
-| ⚠️ **Demais casos** | Acima de 25 $m^3$ | *Consumo excessivo – adote medidas de economia e verifique vazamentos.* |
+| 🏢 **Apartamento** | Menor que 10 m³ | *Consumo econômico – excelente controle de água!* |
+| 🏠 **Casa / Apartamento** | Até 25 m³ | *Consumo moderado – dentro do padrão residencial.* |
+| ⚠️ **Demais casos** | Acima de 25 m³ | *Consumo excessivo – adote medidas de economia e verifique vazamentos.* |
 
 ---
 
