@@ -30,9 +30,16 @@ O **Monitor de Consumo de Água** foi desenvolvido para auxiliar companhias de s
 
 ---
 
-## 💻 Como Executar
+## 💻 Repositório e Execução
 
-Para rodar a aplicação, certifique-se de ter o **Python 3** instalado e execute o arquivo no terminal:
+O código-fonte completo e a estrutura do projeto estão disponíveis no repositório oficial:
 
-```bash
-python app.py
+👉 [Acessar Repositório no GitHub](https://github.com/matheusaafranco-cpu/matheus_de_almeida_franco_Ag7_DS_I_2)
+
+---
+
+<div align="center">
+
+Desenvolvido por **Matheus de Almeida Franco** 🚀
+
+</div>
